@@ -107,4 +107,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 Hey, I'm Abdallah Fathy, I'm a Data Engineer.
 Let's stay in toutch Fell free to connect with me on the LinkedIN
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abdallahfathy/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-fathy/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-fathy/)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abdullah-fathy/)
